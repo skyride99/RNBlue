@@ -1,0 +1,3 @@
+rootProject.name = 'Fire2'
+
+include ':app'
